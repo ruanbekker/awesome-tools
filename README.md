@@ -18,3 +18,10 @@ Curated List of Discovered Tools (awesome-tools)
 ### Self-Desctructing Secrets Services
 
 - [@algolia sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age)
+
+## Security
+
+### Vulnerability Scanning
+
+- [Nessus Essentials (network/system)](https://www.tenable.com/products/nessus/nessus-essentials)
+- [Arachni (web based apps - pentesting](https://www.arachni-scanner.com/)
