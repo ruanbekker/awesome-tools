@@ -10,8 +10,17 @@ Curated List of Discovered Tools (awesome-tools)
  
 ## Contents
 
+- [Benchmarking](#benchmarking)
 - [Secrets](#secrets)
   - [Self-Desctructing Secrets Services](#self-desctructing-secrets-services)
+- [Security](#security)
+
+
+## Benchmarking
+
+### Tools for CPU Benchmarking
+
+- [stress-ng](https://wiki.ubuntu.com/Kernel/Reference/stress-ng)
 
 ## Secrets
 
