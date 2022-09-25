@@ -39,6 +39,12 @@ Curated List of Discovered Tools (awesome-tools)
 
 ## Security
 
+### Kubernetes Security
+
+- [Trivy](https://github.com/aquasecurity/trivy)
+- [Tracee](https://github.com/aquasecurity/tracee)
+- [StarBoard](https://github.com/aquasecurity/starboard)
+
 ### Vulnerability Scanning
 
 - [Nessus Essentials (network/system)](https://www.tenable.com/products/nessus/nessus-essentials)
