@@ -22,6 +22,15 @@ Curated List of Discovered Tools (awesome-tools)
 
 - [stress-ng](https://wiki.ubuntu.com/Kernel/Reference/stress-ng)
 
+## OnCall
+
+- [OpsGenie](https://www.atlassian.com/software/opsgenie/pricing)
+- [SquadCast](https://www.squadcast.com/pricing)
+- [PagerTree](https://pagertree.com)
+- [OpenDuty](https://github.com/openduty/openduty)
+- [Docker OpenDuty](https://github.com/jjmata/docker-openduty)
+- [CaBot](https://github.com/arachnys/cabot)
+
 ## Secrets
 
 ### Self-Desctructing Secrets Services
